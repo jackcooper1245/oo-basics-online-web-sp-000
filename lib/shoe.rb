@@ -17,4 +17,5 @@ class Shoe
   if Shoe.cobble
     Shoe.condtion = "new"
   end
+  
 end
